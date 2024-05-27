@@ -1,0 +1,4 @@
+asyncpg==0.29.0
+prettytable==3.10.0
+python-dotenv==1.0.1
+wcwidth==0.2.13
