@@ -14,7 +14,7 @@ pip install -r req.txt
 ```
 5. Run script
 ```bash
-pythim main.py
+python main.py
 ```
 
 # Script commands
